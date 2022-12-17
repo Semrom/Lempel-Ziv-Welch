@@ -14,6 +14,6 @@ Pour installer et utiliser le projet, lire [le Wiki](https://github.com/Semrom/L
 
 Mon coéquipier : Rémi SOULIER
 
-Plus d'informations : https://romain-semler.fr/projets/lempel-ziv-welch.php  
+Plus d'informations : https://romain-semler.fr/projets-universitaires/lempel-ziv-welch.php  
 
 Romain Semler ©2016
